@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
    
 <h1> 👋 Hi, I’m @CMULS Web guy </h1>
