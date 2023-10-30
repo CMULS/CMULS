@@ -4,8 +4,8 @@
 <h1> 👋 Hi, I’m @CMULS Web guy </h1>
 Welcome to my official page where you can access my projects .
  
-- 📫 <a href="#How to reach me..">How to reach me..</a>
-      <ol><a href="#mulengachibesa8@gmail.com">mulengachibesa8@gmail.com</a></ol>
+- 📫 <li><a href="#How to reach me..">How to reach me..</a></li>
+      <li><a href="#mulengachibesa8@gmail.com">mulengachibesa8@gmail.com</a></li>
       
   
    
