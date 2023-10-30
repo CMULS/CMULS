@@ -1,8 +1,8 @@
 
 
    
-<h1> 👋 Hi, I’m @CMULS  a Web developer</h1>
-I'm a startup looking to establish mysyelf on the web programming market but also look forward to working with other web-developers to further enhance myskills.
+<h1> 👋 Hi, I’m @CMULS Web guy </h1>
+Welcome to my official page where you can access my projects .
  
 - 📫 <a href="#How to reach me..">How to reach me..</a></li>
       <li><a href="#mulengachibesa8@gmail.com">mulengachibesa8@gmail.com</a></li>
