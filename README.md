@@ -1,5 +1,5 @@
+<!DOCTYPE html>
 <html>
-
    
 <h1> 👋 Hi, I’m @CMULS Web guy </h1>
 Welcome to my official page where you can access my projects .
