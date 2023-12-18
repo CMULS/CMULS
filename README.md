@@ -8,6 +8,11 @@ Welcome to my official page where you can access my projects .
       <li><a href="#mulengachibesa8@gmail.com">mulengachibesa8@gmail.com</a></li>
       
   </html>
+  <style>
+     body {
+        background: url('https://www.bing.com/images/search?view=detailV2&ccid=BoudDIbB&id=A49FDBC79BB4EE95DC8DBC2B451893C9890B3020&thid=OIP.BoudDIbBJNNY') no-repeat center center;
+        }
+  </style>
    
 
 <!---
