@@ -1,8 +1,9 @@
 
 
-   
-
-<!---<!DOCTYPE html>
+CMULS/CMULS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes
+--->
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,28 +11,36 @@
     <title>CMULS Web Guy</title>
     <style>
         body {
-            background: url('https://www.bing.com/images/search?view=detailV2&ccid=BoudDIbB&id=A49FDBC79BB4EE95DC8DBC2B451893C9890B3020&thid=OIP.BoudDIbBJNNY') no-repeat center center;
+            background: url(https://images.hdqwalls.com/wallpapers/lamborghini-aventador-sv-2018-s4.jpg) no-repeat center center;
             background-size: cover;
             display: grid;
             font-family: 'Inconsolata', monospace;
-            color: #fff; /* Set text color to white for better visibility on the background */
+            color: black; /* Set text color to white for better visibility on the background */
             padding: 20px; /* Add padding for better readability */
         }
 
         h1 {
-            font-size: 2em; /* Increase font size for the heading */
+            font-size: 4em; /* Increase font size for the heading */
             margin-bottom: 20px; /* Add margin to separate heading from the content */
+            color: white;
         }
 
         a {
-            color: #fff; /* Set link color to white */
+            color: blue; /* Set link color to white */
             text-decoration: none; /* Remove underline from links */
+             
         }
+        h3 {
+            color: white;
+            font-size: 2em;
+            
+        }
+
     </style>
 </head>
 <body>
-    <h1>👋 Hi, I’m @CMULS Web guy</h1>
-    <p>Welcome to my official page where you can access my projects.</p>
+    <h1>👋Hi I’m CMULS, Web guy</h1>
+    <h3>Welcome to my 'how to reach me page' where you can access my contact details.</h3>
     
     <ul>
         <li>📫 <a href="#How to reach me..">How to reach me..</a></li>
@@ -39,7 +48,3 @@
     </ul>
 </body>
 </html>
-
-CMULS/CMULS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes
---->
