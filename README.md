@@ -30,7 +30,7 @@
              
         }
         h3 {
-            color: red;
+            color: white;
             font-size: 2em;
             
         }
@@ -38,7 +38,7 @@
     </style>
 </head>
 <body>
-    <h1>👋Hi I’m CMULS, Web guy</h1>
+    <h1>👋Hi Chibesa here, Web guy</h1>
     <h3>Welcome to my 'how to reach me? page' where you can access my contact details.</h3>
     
     <ul>
