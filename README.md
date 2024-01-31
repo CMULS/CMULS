@@ -25,7 +25,7 @@
         }
 
         a {
-            color: blue; /* Set link color to white */
+            color: red; /* Set link color to white */
             text-decoration: none; /* Remove underline from links */
              
         }
