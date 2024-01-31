@@ -46,4 +46,8 @@
         <li><a href="mailto:mulengachibesa8@gmail.com">mulengachibesa8@gmail.com</a></li>
     </ul>
 </body>
+<footer>
+    <h3>My Projects</h3>
+    <li><a href="https://cmuls.github.io/Galaxy-Webers/">Frosted Glass card</a></li>
+</footer>
 </html>
