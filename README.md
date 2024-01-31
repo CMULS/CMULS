@@ -34,9 +34,7 @@
             font-size: 2em;
             
         }
-       h4 { 
-          color: blue;
-        }
+       
     </style>
 </head>
 <body>
@@ -44,7 +42,7 @@
     <h3>Welcome to my 'how to reach me? page' where you can access my contact details.</h3>
     
     <ul>
-        <li>📫<h4> How to reach me..?</h4></li>
+        <li>📫<h1> How to reach me..?</h1></li>
         <li><a href="mailto:mulengachibesa8@gmail.com">mulengachibesa8@gmail.com</a></li>
     </ul>
 </body>
