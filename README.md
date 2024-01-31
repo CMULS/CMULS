@@ -30,7 +30,7 @@
              
         }
         h3 {
-            color: white;
+            color: red;
             font-size: 2em;
             
         }
@@ -39,7 +39,7 @@
 </head>
 <body>
     <h1>👋Hi I’m CMULS, Web guy</h1>
-    <h3>Welcome to my '<bold>how to reach me? page'<bold></bold> where you can access my contact details.</h3>
+    <h3>Welcome to my 'how to reach me? page' where you can access my contact details.</h3>
     
     <ul>
         <li>📫 <a href="#How to reach me..">How to reach me..</a></li>
