@@ -49,6 +49,7 @@
 <footer>
     <h3>My Projects</h3>
     <li><a href="https://cmuls.github.io/Galaxy-Webers/">Frosted Glass card</a></li>
+    <li><a href="https://cmuls.github.io/Galaxi-2/">Card with black-hole Background</a></li>
     <li><a href="https://cmuls.github.io/Cit-s-Cars/">G-Wagon Page</a></li>
 </footer>
 </html>
