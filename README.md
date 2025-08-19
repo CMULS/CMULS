@@ -74,7 +74,7 @@ button:hover,
   transform: scale(1.1);
   box-shadow: 0 6px 15px rgba(29, 185, 84, 0.4);
 } 
-.project-grid {
+.projects-grid {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
