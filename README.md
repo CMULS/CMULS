@@ -112,7 +112,7 @@ button:hover,
     <h3 id="projects-title">My Projects</h3>
       <div class="projects-grid">
        <div class= "project-card>
-        <a href="https://cmuls.github.io/Galaxy-Webers/" target="_blank" class="cta-button" rel="noopener noreferrer">Frosted Glass card</a>
+        <a href="https://cmuls.github.io/Galaxy-Webers/"  target="_blank" class="cta-button" rel="noopener noreferrer">Frosted Glass Card</a>
        </div>
        <div class="project-card">
         <a href="https://cmuls.github.io/Galaxi-2/"  target="_blank" class="cta-button" rel="noopener noreferrer">Card with black-hole Background</a>
