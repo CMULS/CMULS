@@ -210,7 +210,7 @@
              rel="noopener noreferrer">
             G-Wagon Page
           </a>
-        </div>
+        </div> 
       </div>
     </div>
   </section>
