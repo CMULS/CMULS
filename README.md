@@ -115,6 +115,18 @@
 .about-skills li {
   margin-bottom: 10px;
 }
+/* ===== Footer / Image Credit ===== */
+.image-credit {
+  text-align: center;
+  font-size: 0.9rem;
+  margin-top: 40px;
+  opacity: 0.8;
+}
+
+.image-credit a {
+  color: #1db954;
+}
+
 
   </style>
 </head>
@@ -202,6 +214,15 @@
       </div>
     </div>
   </section>
+  <footer class="image-credit">
+  <p>
+    Background image courtesy of
+    <a href="https://www.hdqwalls.com" target="_blank" rel="noopener noreferrer">
+      HDQ Walls
+    </a>
+  </p>
+</footer>
+
   
 
 </body>
