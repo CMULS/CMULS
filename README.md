@@ -91,6 +91,31 @@
     .cta-button:hover {
       transform: scale(1.08);
     }
+    /* ===== About Section (2-Column Grid) ===== */
+#about {
+  padding: 40px 0;
+}
+
+.about-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 40px;
+  align-items: center;
+}
+
+.about-text p {
+  line-height: 1.6;
+}
+
+.about-skills ul {
+  list-style: none;
+  padding: 0;
+}
+
+.about-skills li {
+  margin-bottom: 10px;
+}
+
   </style>
 </head>
 
@@ -111,6 +136,36 @@
       </a>
     </p>
   </section>
+  <!-- About Section -->
+<section id="about">
+  <div class="container about-grid">
+    
+    <div class="about-text">
+      <h3>About Me</h3>
+      <p>
+        I’m C David, a passionate web developer who enjoys building clean,
+        modern, and responsive websites. I focus on HTML, CSS, and layout
+        systems like Flexbox and CSS Grid to create visually appealing designs.
+      </p>
+      <p>
+        I enjoy experimenting with glassmorphism, animations, and modern UI
+        patterns while continuously improving my front-end skills.
+      </p>
+    </div>
+
+    <div class="about-skills">
+      <h3>Skills & Tools</h3>
+      <ul>
+        <li>✅ HTML5</li>
+        <li>✅ CSS3 (Grid & Flexbox)</li>
+        <li>✅ Responsive Design</li>
+        <li>✅ UI Styling & Layout</li>
+      </ul>
+    </div>
+
+  </div>
+</section>
+
 
   <!-- Projects -->
   <section id="projects">
@@ -147,6 +202,7 @@
       </div>
     </div>
   </section>
+  
 
 </body>
 </html>
