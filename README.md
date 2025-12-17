@@ -217,7 +217,7 @@
   <footer class="image-credit">
   <p>
     Background image courtesy of
-    <a href="https://www.hdqwalls.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://images.hdqwalls.com/wallpapers/lamborghini-aventador-sv-2018-s4.jpg" target="_blank" rel="noopener noreferrer">
       HDQ Walls
     </a>
   </p>
